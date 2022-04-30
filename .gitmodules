@@ -1,0 +1,3 @@
+[submodule "datastructures/trees/binary/balanced/redblacktree"]
+	path = datastructures/trees/binary/balanced/redblacktree
+	url = git@github.com:gsvboas/redblacktree
